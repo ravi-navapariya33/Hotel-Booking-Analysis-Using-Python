@@ -21,17 +21,22 @@ The project covers the following aspects of hotel booking analysis:
 Data Exploration and Cleaning:
 Exploring missing values, duplicates, and outliers.
 Handling categorical and numerical data preprocessing.
+
 Booking Trends:
 Analyzing booking trends over time (seasonality, peaks in booking patterns).
 Identifying customer preferences by nationality, customer type, and room type.
+
 Cancellation Analysis:
 Investigating why bookings are canceled and the effect of cancellations on revenue.
 Comparing the booking status between the two types of hotels (e.g., resort vs. city hotel).
+
 Revenue and Pricing Analysis:
 Exploring the relationship between booking length, room type, and pricing.
 Identifying pricing trends based on the time of year, room type, and occupancy rates.
+
 Predictive Modeling (Optional):
 Developing a machine learning model to predict cancellations or future booking behavior.
 Implementing regression analysis to predict room pricing based on various features.
+
 Visualizations:
 Creating visual representations of key metrics such as booking status, seasonal trends, and pricing patterns.
